@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0 ;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+}
+.navbar-brand :hover{
+color: black;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: black;
+}
+.main{
+    background: url(./img/bugerbackground.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+    font-family: 'Rubik', sans-serif;
+    color: whitesmoke;
+}
+.btn1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: rgb(248, 26, 92);
+    font-weight: 700;
+    border-radius: 60px ;
+}
+
+.mains{
+    background: url(./img/orange.png);
+    background-size: cover;
+    height: 250px;
+    background-position: 50% 50%;
+    width: 100%;
+}
+.mains h1{
+    font-size: 4rem;
+    font-weight: 700;
+    font-family: 'Rubik', sans-serif;
+    color: black;
+}
+
+.line1{
+    padding: 0;
+    margin: 0 ;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+    color:orange;
+}
